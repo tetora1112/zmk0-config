@@ -9,6 +9,8 @@
 #include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/ext_power.h>
 
+#include "keycode_japanese.h"
+
 / {
     keymap {
         compatible = "zmk,keymap";
